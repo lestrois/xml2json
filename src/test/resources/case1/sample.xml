@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SupplierDetails xmlns="http://www.xmlns.walmartstores.com/SupplyChain/SourcingManagement/datatypes/SupplierDetails/1.3/">
+    <SupplierDetail>
+        <supplierID>1600348625</supplierID>
+        <supplierName>
+            <textValue>SAMSUNG SMART ELECTRONICS</textValue>
+            <languageCode>EN</languageCode>
+        </supplierName>
+        <legalName>
+            <textValue>SAMSUNG SMART ELECTRONICS</textValue>
+            <languageCode>EN</languageCode>
+        </legalName>
+        <legacySupplierID>783210</legacySupplierID>
+        <additionalNames>
+            <type>REMIT</type>
+            <name>
+                <textValue>SAMSUNG SMART ELECTRONICS</textValue>
+                <languageCode>EN</languageCode>
+            </name>
+        </additionalNames>
+        <status>
+            <code>1</code>
+            <description>Active</description>
+        </status>
+        <address>
+            <addressLine1>6525 Glacier Hwy</addressLine1>
+            <city>Juneau</city>
+            <stateProvince>AK</stateProvince>
+            <zip>99801</zip>
+            <type>
+                <code>0001</code>
+                <description>Remit Address</description>
+            </type>
+            <country>
+                <code>US</code>
+                <name>USA</name>
+            </country>
+            <isStandardized>false</isStandardized>
+            <isPreferred>true</isPreferred>
+            <languageCode>EN</languageCode>
+            <contact>
+                <preferredCommunicationMethod/>
+            </contact>
+        </address>
+        <address>
+            <addressLine1>1212 E Lane</addressLine1>
+            <city>we</city>
+            <stateProvince>AL</stateProvince>
+            <zip>34345</zip>
+            <type>
+                <code>0002</code>
+                <description>Physical Address</description>
+            </type>
+            <country>
+                <code>US</code>
+                <name>USA</name>
+            </country>
+            <isStandardized>false</isStandardized>
+            <isPreferred>true</isPreferred>
+            <languageCode>EN</languageCode>
+            <contact>
+                <preferredCommunicationMethod/>
+            </contact>
+        </address>
+        <address>
+            <addressLine1>6525 Glacier Hwy</addressLine1>
+            <city>Juneau</city>
+            <stateProvince>AK</stateProvince>
+            <zip>99801</zip>
+            <type>
+                <code>WMT05</code>
+                <description>Legacy Remit Address</description>
+            </type>
+            <country>
+                <code>US</code>
+                <name>USA</name>
+            </country>
+            <isStandardized>false</isStandardized>
+            <contact/>
+        </address>
+        <paymentMethod>
+            <code>C</code>
+            <description>Check</description>
+            <isNetting>true</isNetting>
+        </paymentMethod>
+        <remitAddress>
+            <addressLine1>6525 Glacier Hwy</addressLine1>
+            <city>Juneau</city>
+            <stateProvince>AK</stateProvince>
+            <zip>99801</zip>
+            <type>
+                <code>0001</code>
+                <description>Remit Address</description>
+            </type>
+            <country>
+                <code>US</code>
+                <name>USA</name>
+            </country>
+            <isPreferred>true</isPreferred>
+            <languageCode>EN</languageCode>
+            <contact>
+                <preferredCommunicationMethod/>
+            </contact>
+        </remitAddress>
+        <sourceSupplierId>1600348625</sourceSupplierId>
+        <createDate>2016-12-13Z</createDate>
+        <taxBasePercent>0.0</taxBasePercent>
+        <walmartSellingCountryCode>US</walmartSellingCountryCode>
+        <accountGroup>
+            <code>Z001</code>
+            <description>Merchandise Supplier</description>
+        </accountGroup>
+        <doingBusinessAs>SAMSUNG SMART ELECTRONICS</doingBusinessAs>
+        <countryCode>US</countryCode>
+        <tpiStatus>
+            <description>TPI:APPROVED</description>
+        </tpiStatus>
+        <isTPI>true</isTPI>
+        <representative>
+            <address>
+                <addressLine1>6525 Glacier Hwy</addressLine1>
+                <city>Juneau</city>
+                <stateProvince>AK</stateProvince>
+                <zip>99801</zip>
+                <country>
+                    <code>US</code>
+                    <name>USA</name>
+                </country>
+                <postalCode>99801</postalCode>
+                <contact>
+                    <name>
+                        <first>Joe</first>
+                        <prefix>No Selection</prefix>
+                    </name>
+                </contact>
+            </address>
+            <department>0041</department>
+            <departmentDesc>Sales</departmentDesc>
+            <languageCode>EN</languageCode>
+            <timeZone>
+                <code>ALA</code>
+                <name>Alaska (Anchorage)</name>
+            </timeZone>
+        </representative>
+        <representative>
+            <address>
+                <addressLine1>6525 Glacier Hwy</addressLine1>
+                <city>Juneau</city>
+                <stateProvince>AK</stateProvince>
+                <zip>99801</zip>
+                <country>
+                    <code>US</code>
+                    <name>USA</name>
+                </country>
+                <postalCode>99801</postalCode>
+                <contact>
+                    <name>
+                        <first>Joe</first>
+                        <prefix>No Selection</prefix>
+                    </name>
+                </contact>
+            </address>
+            <department>0048</department>
+            <departmentDesc>Insurance Coverage</departmentDesc>
+            <languageCode>EN</languageCode>
+            <timeZone>
+                <code>ALA</code>
+                <name>Alaska (Anchorage)</name>
+            </timeZone>
+        </representative>
+        <representative>
+            <address>
+                <addressLine1>6525 Glacier Hwy</addressLine1>
+                <city>Juneau</city>
+                <stateProvince>AK</stateProvince>
+                <zip>99801</zip>
+                <country>
+                    <code>US</code>
+                    <name>USA</name>
+                </country>
+                <postalCode>99801</postalCode>
+                <contact>
+                    <email>sharonrush@pomchies.com</email>
+                    <name>
+                        <first>Joe</first>
+                        <prefix>No Selection</prefix>
+                    </name>
+                </contact>
+            </address>
+            <department>0046</department>
+            <departmentDesc>Administrator</departmentDesc>
+            <languageCode>EN</languageCode>
+            <timeZone>
+                <code>ALA</code>
+                <name>Alaska (Anchorage)</name>
+            </timeZone>
+        </representative>
+        <representative>
+            <address>
+                <addressLine1>6525 Glacier Hwy</addressLine1>
+                <city>Juneau</city>
+                <stateProvince>AK</stateProvince>
+                <zip>99801</zip>
+                <country>
+                    <code>US</code>
+                    <name>USA</name>
+                </country>
+                <postalCode>99801</postalCode>
+                <contact>
+                    <email>jasonrush@pomchies.com</email>
+                    <name>
+                        <first>Jason</first>
+                        <last>Rush</last>
+                        <prefix>No Selection</prefix>
+                    </name>
+                </contact>
+            </address>
+            <department>0017</department>
+            <departmentDesc>Accounts Payable con</departmentDesc>
+            <languageCode>EN</languageCode>
+            <timeZone>
+                <code>ALA</code>
+                <name>Alaska (Anchorage)</name>
+            </timeZone>
+        </representative>
+        <representative>
+            <address>
+                <addressLine1>6525 Glacier Hwy</addressLine1>
+                <city>Juneau</city>
+                <stateProvince>AK</stateProvince>
+                <zip>99801</zip>
+                <country>
+                    <code>US</code>
+                    <name>USA</name>
+                </country>
+                <postalCode>99801</postalCode>
+                <contact>
+                    <email>jasonrush@pomchies.com</email>
+                    <name>
+                        <first>Joe</first>
+                        <prefix>No Selection</prefix>
+                    </name>
+                </contact>
+            </address>
+            <department>0020</department>
+            <departmentDesc>CEO</departmentDesc>
+            <languageCode>EN</languageCode>
+            <timeZone>
+                <code>ALA</code>
+                <name>Alaska (Anchorage)</name>
+            </timeZone>
+        </representative>
+        <representative>
+            <address>
+                <addressLine1>6525 Glacier Hwy</addressLine1>
+                <city>Juneau</city>
+                <stateProvince>AK</stateProvince>
+                <zip>99801</zip>
+                <country>
+                    <code>US</code>
+                    <name>USA</name>
+                </country>
+                <postalCode>99801</postalCode>
+                <contact>
+                    <email>jasonrush@pomchies.com</email>
+                    <name>
+                        <first>Jason</first>
+                        <last>Rush</last>
+                        <prefix>No Selection</prefix>
+                    </name>
+                </contact>
+            </address>
+            <department>0021</department>
+            <departmentDesc>CFO</departmentDesc>
+            <languageCode>EN</languageCode>
+            <timeZone>
+                <code>ALA</code>
+                <name>Alaska (Anchorage)</name>
+            </timeZone>
+        </representative>
+        <representative>
+            <address>
+                <addressLine1>6525 Glacier Hwy</addressLine1>
+                <city>Juneau</city>
+                <stateProvince>AK</stateProvince>
+                <zip>99801</zip>
+                <country>
+                    <code>US</code>
+                    <name>USA</name>
+                </country>
+                <postalCode>99801</postalCode>
+                <contact>
+                    <email>joe@infosys.com</email>
+                    <name>
+                        <first>Joe</first>
+                        <prefix>No Selection</prefix>
+                    </name>
+                </contact>
+            </address>
+            <department>0024</department>
+            <departmentDesc>Contact Person</departmentDesc>
+            <languageCode>EN</languageCode>
+            <timeZone>
+                <code>ALA</code>
+                <name>Alaska (Anchorage)</name>
+            </timeZone>
+        </representative>
+        <representative>
+            <address>
+                <addressLine1>6525 Glacier Hwy</addressLine1>
+                <city>Juneau</city>
+                <stateProvince>AK</stateProvince>
+                <zip>99801</zip>
+                <country>
+                    <code>US</code>
+                    <name>USA</name>
+                </country>
+                <postalCode>99801</postalCode>
+                <contact>
+                    <email>joe@google.com</email>
+                    <name>
+                        <first>Joe</first>
+                        <prefix>No Selection</prefix>
+                    </name>
+                </contact>
+            </address>
+            <department>0047</department>
+            <departmentDesc>Accounts Receivable</departmentDesc>
+            <languageCode>EN</languageCode>
+            <timeZone>
+                <code>ALA</code>
+                <name>Alaska (Anchorage)</name>
+            </timeZone>
+        </representative>
+        <representative>
+            <address>
+                <addressLine1>6525 Glacier Hwy</addressLine1>
+                <city>Juneau</city>
+                <stateProvince>AK</stateProvince>
+                <zip>99801</zip>
+                <country>
+                    <code>US</code>
+                    <name>USA</name>
+                </country>
+                <postalCode>99801</postalCode>
+                <contact>
+                    <email>joe@hotmail.com</email>
+                    <name>
+                        <first>Joe</first>
+                        <prefix>No Selection</prefix>
+                    </name>
+                </contact>
+            </address>
+            <department>0042</department>
+            <departmentDesc>Operations</departmentDesc>
+            <languageCode>EN</languageCode>
+            <timeZone>
+                <code>ALA</code>
+                <name>Alaska (Anchorage)</name>
+            </timeZone>
+        </representative>
+        <representative>
+            <address>
+                <addressLine1>6525 Glacier Hwy</addressLine1>
+                <city>Juneau</city>
+                <stateProvince>AK</stateProvince>
+                <zip>99801</zip>
+                <country>
+                    <code>US</code>
+                    <name>USA</name>
+                </country>
+                <postalCode>99801</postalCode>
+                <contact>
+                    <email>joe@yahoo.com</email>
+                    <name>
+                        <first>Joe</first>
+                        <prefix>No Selection</prefix>
+                    </name>
+                </contact>
+            </address>
+            <department>0026</department>
+            <departmentDesc>General Manager</departmentDesc>
+            <languageCode>EN</languageCode>
+            <timeZone>
+                <code>ALA</code>
+                <name>Alaska (Anchorage)</name>
+            </timeZone>
+        </representative>
+        <representative>
+            <address>
+                <addressLine1>6525 Glacier Hwy</addressLine1>
+                <city>Juneau</city>
+                <stateProvince>AK</stateProvince>
+                <zip>99801</zip>
+                <country>
+                    <code>US</code>
+                    <name>USA</name>
+                </country>
+                <postalCode>99801</postalCode>
+                <contact>
+                    <email>nia.paul@gmail.com</email>
+                    <name>
+                        <first>Nia</first>
+                        <last>Paul</last>
+                        <prefix>No Selection</prefix>
+                    </name>
+                </contact>
+            </address>
+            <department>0027</department>
+            <departmentDesc>President</departmentDesc>
+            <languageCode>EN</languageCode>
+            <timeZone>
+                <code>ALA</code>
+                <name>Alaska (Anchorage)</name>
+            </timeZone>
+        </representative>
+        <representative>
+            <address>
+                <addressLine1>6525 Glacier Hwy</addressLine1>
+                <city>Juneau</city>
+                <stateProvince>AK</stateProvince>
+                <zip>99801</zip>
+                <country>
+                    <code>US</code>
+                    <name>USA</name>
+                </country>
+                <postalCode>99801</postalCode>
+                <contact>
+                    <name>
+                        <first>Nia</first>
+                        <last>Paul</last>
+                        <prefix>No Selection</prefix>
+                    </name>
+                </contact>
+            </address>
+            <department>0029</department>
+            <departmentDesc>Director</departmentDesc>
+            <languageCode>EN</languageCode>
+            <timeZone>
+                <code>ALA</code>
+                <name>Alaska (Anchorage)</name>
+            </timeZone>
+        </representative>
+        <orderCurrency>
+            <code>USD</code>
+            <description>United States Dollar</description>
+        </orderCurrency>
+        <createUserId>WF-BATCH</createUserId>
+        <bankAccount>
+            <issuerCountryCode>US</issuerCountryCode>
+            <routingNumber>122100024</routingNumber>
+            <bankName>JPMorgan Chase Bank, National Association</bankName>
+            <swiftCode>CHASUS33XXX</swiftCode>
+            <bankKey>122100024</bankKey>
+            <bankAccountNumbers>
+                <name>JPMorgan Chase Bank</name>
+                <number>658066055</number>
+            </bankAccountNumbers>
+            <accountHolderName>Jackson LLC</accountHolderName>
+            <bankCity>APACHE JUNCTION</bankCity>
+            <bankStreet>1148 W Apache Trl</bankStreet>
+            <partnerBankType>USD</partnerBankType>
+            <country/>
+            <currency/>
+        </bankAccount>
+        <supplierContracts>
+            <legacySupplierID>783210</legacySupplierID>
+            <departmentNumber>01</departmentNumber>
+            <seqNumber>1</seqNumber>
+            <walmartSupplierAccount>1600000374</walmartSupplierAccount>
+            <buyerUserId>rabur1</buyerUserId>
+            <supplierFreight>
+                <deliveryMethod>
+                    <code>N</code>
+                    <description>DC(Warehouse)</description>
+                </deliveryMethod>
+                <freightQuantity>
+                    <amount>0.0</amount>
+                </freightQuantity>
+            </supplierFreight>
+            <shipPoints>
+                <nodeID>0</nodeID>
+                <address>
+                    <city>VARIOUS</city>
+                    <stateProvince>ZZ</stateProvince>
+                </address>
+            </shipPoints>
+            <category/>
+            <status>
+                <code>1</code>
+                <description>Active</description>
+            </status>
+            <fobPointType>
+                <code>COL</code>
+                <description>Freight Collect</description>
+            </fobPointType>
+            <contractSales>
+                <isGuaranteed>true</isGuaranteed>
+                <isPrepriced>true</isPrepriced>
+                <isStockBalanced>true</isStockBalanced>
+            </contractSales>
+            <isShelfLabelProvided>true</isShelfLabelProvided>
+            <supplierReturns>
+                <returnInstruction>
+                    <code>01</code>
+                    <description>DEFECTIVE GOODS WILL BE RETURNED TO SUPPLIER DIRECT FROM EACH STORE. IF AUTOMATIC RETURN IS NOT POSSIBLE, A TOLL FREE NUMBER SHOULD BE PROVIDED BY THE SUPPLIER OR SUPPLIER MUST ACCEPT PURCHASERS COLLECT CALLS TO SECURE RETURN  AUTHORIZATION OVER THE PHONE</description>
+                </returnInstruction>
+                <authorizationNumber>1234</authorizationNumber>
+                <contact>
+                    <phone>
+                        <number>333-333-3333</number>
+                    </phone>
+                    <name>
+                        <fullName>ParullllllGauba</fullName>
+                    </name>
+                </contact>
+            </supplierReturns>
+            <operationDetails>
+                <lastUpdatedUser>walmart</lastUpdatedUser>
+                <lastUpdatedTimestamp>2017-01-06T08:51:18.704Z</lastUpdatedTimestamp>
+                <applicationID>MDGS</applicationID>
+            </operationDetails>
+            <banner>
+                <code>0003</code>
+                <description>Walmart</description>
+            </banner>
+            <contractPayment>
+                <isPaymentAdviceByEDI>true</isPaymentAdviceByEDI>
+                <localPaymentProcessing>
+                    <code>74</code>
+                    <description>Merch C Vendor S_Z (Non-EDI)</description>
+                </localPaymentProcessing>
+                <paymentTerms>
+                    <id>Z359</id>
+                    <description>within 60 days 2 % cash discount</description>
+                    <startType>
+                        <code>01</code>
+                        <description>End of Month</description>
+                    </startType>
+                    <discountTermLength>
+                        <amount>60.0</amount>
+                        <uom>DAYS</uom>
+                    </discountTermLength>
+                    <netTermLength>
+                        <amount>75.0</amount>
+                        <uom>DAYS</uom>
+                    </netTermLength>
+                    <checkCashingTime>
+                        <amount>0.0</amount>
+                    </checkCashingTime>
+                    <paymentTermCreditMemoType>
+                        <code>Z000</code>
+                        <description>Payable immediately Due net</description>
+                    </paymentTermCreditMemoType>
+                    <isCheckDoubleInvoice>true</isCheckDoubleInvoice>
+                    <discountPercent>2.0</discountPercent>
+                    <electronicFundsTransferDays>0</electronicFundsTransferDays>
+                    <electronicFundsTransferPct>0.0</electronicFundsTransferPct>
+                </paymentTerms>
+                <billOfExchangeLimit>0.0</billOfExchangeLimit>
+                <paymentMethod>
+                    <code>C</code>
+                    <description>Check</description>
+                </paymentMethod>
+            </contractPayment>
+            <isHazardousMaterial>true</isHazardousMaterial>
+            <payCompany>
+                <description>VN01</description>
+                <code>VN01</code>
+            </payCompany>
+        </supplierContracts>
+        <supplierCompany>
+            <diversityDetails>
+                <ownerGender>
+                    <code>0001</code>
+                    <description>MALE</description>
+                </ownerGender>
+                <sourceSystem>SUP</sourceSystem>
+                <diversityCertification>
+                    <certificationNumber>2005119561</certificationNumber>
+                    <diversityCertifyingAgency>
+                        <name>0000000001</name>
+                    </diversityCertifyingAgency>
+                </diversityCertification>
+                <lastModified>
+                    <lastModifiedDate>2017-01-06T06:24:22Z</lastModifiedDate>
+                </lastModified>
+            </diversityDetails>
+            <taxIdentification>
+                <id>2341231234</id>
+                <type>
+                    <code>US2</code>
+                    <description>USA: Federal Tax ID</description>
+                </type>
+            </taxIdentification>
+            <bankAccount/>
+        </supplierCompany>
+        <operationDetails>
+            <lastUpdatedUser>walmart</lastUpdatedUser>
+            <lastUpdatedTimestamp>2017-01-06T07:25:03.218Z</lastUpdatedTimestamp>
+            <applicationID>MDGS</applicationID>
+        </operationDetails>
+    </SupplierDetail>
+</SupplierDetails>

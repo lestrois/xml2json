@@ -1,0 +1,8 @@
+<n0:taxIdentification>
+<n0:id>121456789TQ0011</n0:id>
+<n0:type>
+<n0:code>CA1</n0:code>
+<n0:description>Canada: GST/HST</n0:description>
+</n0:type>
+<n0:isForeignTax>true</n0:isForeignTax>
+</n0:taxIdentification>

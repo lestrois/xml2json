@@ -1,0 +1,17 @@
+<bankAccount>
+   <issuerCountryCode>US</issuerCountryCode>
+   <routingNumber>122100024</routingNumber>
+   <bankName>JPMorgan Chase Bank, National Association</bankName> 
+   <swiftCode>CHASUS33XXX</swiftCode>
+   <bankKey>122100024</bankKey>
+   <bankAccountNumbers>
+       <name>JPMorgan Chase Bank</name>
+       <number>658066055</number>
+   </bankAccountNumbers>
+   <accountHolderName>Jackson LLC</accountHolderName>
+   <bankCity>APACHE JUNCTION</bankCity>
+   <bankStreet>1148 W Apache Trl</bankStreet>
+   <partnerBankType>USD</partnerBankType>
+   <country/>
+   <currency/>
+</bankAccount>
